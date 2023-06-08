@@ -15,7 +15,7 @@
 - сохраняем данные клавишами ctrl+s в VSC 
 - в командной строке добавляем данные командой $ git add .
 - далее делаем коммит $ git commit -m "Adding my portfolio"
-- и пушим git push
+- и пушим $ git push
 - данные из репозитория testrusau перенесены в удаленный репозиторий DOCTORZHIVAG0
 
 5. Открыть файл README.md и поочередно заменить каждый блок на вашу информацию. Каждое изменений блока делайте через отдельный коммит
@@ -36,15 +36,15 @@
 - на личном компьютере созданы репозитории Postman, MySQL, Charles Proxy, Check-lists, Test-cases, Bag-reports
 - данные репозитории соединены с репозиториями в github через VSC 
 - далее через VSC внесена информация в файл README.md
-- далее git.add ., git commit -m "Adding my portfolio", git push
+- далее $ git.add ., $ git commit -m "Adding my portfolio", $ git push
 - файлы в форматах pdf, txt, xls и ссылки с выполнеными ранее д/з скопированы в соответствующие репозитории на компьютере
-- далее git.add ., git commit -m "Adding my portfolio", git push
+- далее $ git.add ., $ git commit -m "Adding my portfolio", $ git push
 
 3. Далее добавьте в файл README.md новый блок Testing Artefacts (Тестовые артефакты) по аналогии с другими блоками, где каждая новая строка будет включать в себя название модуля (репозитория) и ссылку, по которой специалист сможет ознакомиться с вами
 - добавлена информация о изученых модулях и сохранена в файл README.md в новый блок "Тестовые артефакты" в репозиторий DOCTORZHIVAG0
 
 4. Залейте изменения на удаленный репозиторий
-- git add .
-- git status
-- git commit -m "Adding my portfolio"
-- git push
+- $ git add .
+- $ git status
+- $ git commit -m "Adding my portfolio"
+- $ git push
